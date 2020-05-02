@@ -1,0 +1,7 @@
+Den
+Experience: 300
+Hourly Wag: 20
+Hours worked: 30
+Salary: 600
+Premy: 90
+
